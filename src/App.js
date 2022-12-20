@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <div className="movie-app">
-        <h1> Movie Hall</h1>
+        <h1> Imran Hall</h1>
         <movielist  > </movielist>
       </div>
     </>
