@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <div className="movie-app">
-        <h1> movie list</h1>
+        <h1> Movie Hall</h1>
         <movielist  > </movielist>
       </div>
     </>
