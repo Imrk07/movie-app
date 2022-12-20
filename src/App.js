@@ -1,8 +1,8 @@
 import './App.css';
-import { useState } from 'react';
+import React from "react";
 
 function App() {
-  const [movies, setMovies] = useState([]);
+  // const [movies, setMovies] = useState([]);
   // const getMovieRequest = async () => {
   //   const url = "http://www."
   //   const data = await Response.json();
