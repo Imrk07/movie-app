@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 
 function App() {
   const [movies, setMovies] = useState([]);
-  const getMovieRequest = async () => {
-    const url = "http://www."
-    const data = await Response.json();
-  }
+  // const getMovieRequest = async () => {
+  //   const url = "http://www."
+  //   const data = await Response.json();
+  // }
   return (
     <>
       <div className="movie-app">
